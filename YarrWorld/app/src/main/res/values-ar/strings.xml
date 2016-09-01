@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarr World</string>
+    <string name="button_text">ترتعد لي الأخشاب</string>
+    <string name="welcome_text">مرحبا بكم في تطوير التطبيقات النقالة</string>
+    <string name="toast_txt">Yarr World!</string>
+</resources>

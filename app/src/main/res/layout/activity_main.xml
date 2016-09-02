@@ -27,7 +27,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/pirate_image_view"
+        android:id="@+id/pirateImageView"
         android:layout_gravity="center_horizontal"
         android:src="@drawable/occpirate"
         android:layout_weight="2" />

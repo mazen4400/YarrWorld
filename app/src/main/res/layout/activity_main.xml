@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/welcome_text"
-        android:id="@+id/WelcomeTextView"
+        android:id="@+id/welcomeTextView"
         android:layout_gravity="center_horizontal"
         android:gravity="center"
         android:textSize="40sp"
